@@ -7,7 +7,7 @@ Summary(ja.UTF-8):	ユニコード テキスト分節パッケージ
 Summary(pl.UTF-8):	Biblioteka do przenoszenia tekstu
 Name:		sombok
 Version:	2.4.0
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Libraries
 #Source0Download: https://github.com/hatukanezumi/sombok/releases
